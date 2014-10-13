@@ -3,8 +3,8 @@ import java.util.Scanner;
 
 public class Ex1 {
 
-	/**
-	 * @param args
+	/** José Oliveira 13/10/2014
+	 * Git e Githube exercise
 	 */
 	public static void main(String[] args) {
 		
